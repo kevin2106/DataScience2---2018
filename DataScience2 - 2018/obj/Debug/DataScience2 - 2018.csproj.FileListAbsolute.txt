@@ -1,0 +1,7 @@
+C:\Users\Kevin\Documents\Visual Studio 2017\Projects\DataScience2 - 2018\DataScience2 - 2018\obj\Debug\DataScience2 - 2018.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Visual Studio 2017\Projects\DataScience2 - 2018\DataScience2 - 2018\obj\Debug\DataScience2 - 2018.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\Visual Studio 2017\Projects\DataScience2 - 2018\DataScience2 - 2018\bin\Debug\DataScience2 - 2018.exe.config
+C:\Users\Kevin\Documents\Visual Studio 2017\Projects\DataScience2 - 2018\DataScience2 - 2018\bin\Debug\DataScience2 - 2018.exe
+C:\Users\Kevin\Documents\Visual Studio 2017\Projects\DataScience2 - 2018\DataScience2 - 2018\bin\Debug\DataScience2 - 2018.pdb
+C:\Users\Kevin\Documents\Visual Studio 2017\Projects\DataScience2 - 2018\DataScience2 - 2018\obj\Debug\DataScience2 - 2018.exe
+C:\Users\Kevin\Documents\Visual Studio 2017\Projects\DataScience2 - 2018\DataScience2 - 2018\obj\Debug\DataScience2 - 2018.pdb
